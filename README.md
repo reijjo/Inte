@@ -7,7 +7,7 @@ Integrify tasks
 
 
 * redux version coming someday
-* ```npm start``` to run
+* first ```npm install``` and then ```npm start``` to run
 * also deployed with Netlify <a href='https://peaceful-dodol-c56536.netlify.app' target='_blank'>click here</a>
 
 ## back
@@ -17,4 +17,4 @@ Integrify tasks
 
 ## meme
 ### Meme generator
-* ```npm start``` to start meme generator
+* ```npm install``` for node_modules and then ```npm start``` to start meme generator
