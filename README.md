@@ -17,6 +17,8 @@ Integrify tasks
 
 ## meme
 ### Meme generator
+<img src='https://github.com/reijjo/Inte/assets/95418273/84d95f17-8fff-4322-ac14-501adb792076.gif' alt='todo' width='640' height='360' />
+
 * ```npm install``` for node_modules and then ```npm start``` to start meme generator
 * also deployed with Netlify <a href='https://majestic-paletas-fcdf8a.netlify.app/' target='_blank'>make memes here</a>
 
