@@ -13,3 +13,4 @@ Integrify tasks
 
 ## meme
 ### Meme generator
+* ```npm start``` to start meme generator
