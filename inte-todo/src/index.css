@@ -104,4 +104,8 @@ body {
     flex-direction: column;
     justify-content: space-between;
   }
+
+  .itemInfo {
+    padding-left: 5vw;
+  }
 }

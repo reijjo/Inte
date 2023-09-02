@@ -132,10 +132,7 @@ const Home = () => {
             flexDirection: "row",
           }}
         >
-          <div
-            className="itemInfo"
-            style={{ marginLeft: "2vw", paddingLeft: "5vw" }}
-          >
+          <div className="itemInfo" style={{ marginLeft: "2vw" }}>
             Done
           </div>
         </div>
@@ -148,10 +145,7 @@ const Home = () => {
             flexDirection: "row",
           }}
         >
-          <div
-            className="itemInfo"
-            style={{ marginLeft: "2vw", paddingLeft: "5vw" }}
-          >
+          <div className="itemInfo" style={{ marginLeft: "2vw" }}>
             Not started
           </div>
         </div>
@@ -164,10 +158,7 @@ const Home = () => {
             whiteSpace: "nowrap",
           }}
         >
-          <div
-            className="itemInfo"
-            style={{ marginLeft: "2vw", paddingLeft: "5vw" }}
-          >
+          <div className="itemInfo" style={{ marginLeft: "2vw" }}>
             In progress
           </div>
         </div>
