@@ -18,3 +18,5 @@ Integrify tasks
 ## meme
 ### Meme generator
 * ```npm install``` for node_modules and then ```npm start``` to start meme generator
+* also deployed with Netlify <a href='https://majestic-paletas-fcdf8a.netlify.app/' target='_blank'>make memes here</a>
+
