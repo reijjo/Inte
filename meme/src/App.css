@@ -1,7 +1,7 @@
 :root {
   --black: #111111;
   --white: #f5f5f5;
-  --prima: #10666a;
+  --prima: hsl(183, 74%, 24%);
   --primamid: hsl(186, 77%, 40%);
   --primalight: hsl(186, 77%, 70%);
   --seco: #ff5733;
